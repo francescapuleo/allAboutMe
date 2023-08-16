@@ -26,7 +26,7 @@ struct ContentView: View {
                 .frame(width: 200.0, height: 100.0)
             NavigationLink(destination: secondView1()) {
                
-                
+                //hayyyy
             
             Button("click here to learn more about me !") {
                 
